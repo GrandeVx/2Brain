@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac512ce842298cf7",
+        "id": "2d1de7084f33380d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/Fisica I/Analisi Dimensionale.md",
+            "file": "University/Analisi I/Numeri Complessi.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Fisica I/Analisi Dimensionale.md",
+                "file": "University/Analisi I/Numeri Complessi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Fisica I/Analisi Dimensionale.md",
+                "file": "University/Analisi I/Numeri Complessi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Fisica I/Analisi Dimensionale.md"
+                "file": "University/Analisi I/Numeri Complessi.md"
               }
             }
           },
@@ -129,21 +129,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ac512ce842298cf7",
+  "active": "2d1de7084f33380d",
   "lastOpenFiles": [
+    "University/Analisi I/Teoria degli Insiemi.md",
+    "University/Analisi I/Numeri Complessi.md",
     "Senza nome.md",
     "University/Fisica I/Analisi Dimensionale.md",
+    "2022-09-23.md",
     "2022-09-21.md",
     "Schermata 2022-09-21 alle 11.43.10.png",
-    "University/Analisi I/Teoria degli Insiemi.md",
     "2022-09-17.md"
   ]
 }
