@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "2f3543a3345b5ef8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -151,8 +139,8 @@
   },
   "active": "a7af73f5008c5185",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "University/Analisi I/Numeri Complessi.md",
+    "conflict-files-obsidian-git.md",
     "University/Fisica I/Algebra Vettoriale.md",
     "University/Fisica I/Analisi Dimensionale.md",
     "University/Analisi I/Teoria degli Insiemi.md",
