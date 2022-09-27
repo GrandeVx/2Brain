@@ -150,3 +150,76 @@ sia $\ z \in \mathbb{C}$ un numero *complesso* è in **forma trigonometrica** se
 2. il **Prodotto tra due numeri complessi** $$ z_1 = r_1 [cos(\theta_1) + isin(\theta_1)] \space e \space z_2 = r_2 [cos(\theta_2) + isin(\theta_2)]$$ è un numero complesso il cui **modulo** è  dato dal prodotto dei moduli e l'argomento si deriva dalla somma degli argomenti: $$ z_1z_2 = r_1r_2[cos(\theta_1+\theta_2) + isin(\theta_1+\theta_2)]$$
 3. La **Divisione tra due numeri complessi** è ancora un numero complesso il cui modulo è dato dal rapporto dei due e l'argomento dalla differenza; $$ \frac{z_1}{z_2} = \frac{r_1}{r_2}[cos(\theta_1-\theta_2) + isin(\theta_1-\theta_2)]$$ 
 
+#### Modulo di un Numero Complesso
+
+dato un *Numero Complesso* $\ z \in \mathbb{C}$ in forma algebrica $$\ z = a +ib$$
+sappiamo che $\ Re(z) = a \in \mathbb{R}, \space Im(z) = b \in \mathbb{R}$ sono rispettivamente la *parte reale* e la *parte immaginaria* di $z$ e che sono entrambi *numeri reali*
+
+Definiamo il **modulo del numero complesso** $z$ come $$ r = \vert z \vert := \sqrt{a^{2}+ b^2} $$
+dove il *simbolo* $:=$ denota un uguaglianza per *definizione*. Dalla definizione stessa discende l'ovvia coindizione da imporre sul **modulo** $$ r \ge 0$$
+#### Argomento di un numero complesso
+
+Continuando con le notazioni adottate in precedenza, definiamo l'**argomento del numero complesso** $z$ come il numero $$\theta := Arg(z) \in (-\pi, +\pi]$$
+dato da $$$\theta := Arg(z) =$$ 
+##### Tabella Ricerca Modulo
+| Valore                                  | Condizione                       |
+| --------------------------------------- | -------------------------------- |
+| $\frac{\pi}{2}$                         | se $\ a = 0, b > 0$              |
+| $\ - \frac{\pi}{2}$                     | se $\ a = 0, b > 0$              |
+| non definito                            | se $\ a = 0, b = 0$              |
+| $\arctan(\frac{b}{a})$                  | se $\ a > 0, b \space qualsiasi$ |
+| $\arctan\left(\frac{b}{a}\right) + \pi$ | se $\ a < 0, b \ge 0$            |
+| $\arctan\left(\frac{b}{a}\right) - \pi$ | se $\ a < 0, b < 0$              |
+
+#### Dalla Forma Algebrica alla forma Trigonometrica 
+
+un **numero complesso in forma algebrica** si presenta come $$ z = a+ib, \space con \space a,b \in \mathbb{R}$$
+per *Passare* alla **forma trigonometrica** $$ z = r[cos(\theta) + isin(\theta)] $$
+basta calcolare $r$ e $\theta$, ossia il **modulo** e **argomento** del *numero complesso* $\ z = a + ib$ 
+
+per il **modulo** basta ricorrere alla formula citata nella sezione [[#Modulo di un Numero Complesso]] $$r = \sqrt{a^2+b^2}$$
+mentre per il valore dellargomento $\theta$ varia a seconda dell'intervallo in cui si decide di lavorare.  Possiamo ricorrere però alla tabella sopra citata ([[#Tabella Ricerca Modulo]])
+
+
+###### TODO | Fare Esempio 
+
+#### Dalla Forma Trigonometrica alla forma Algebrica
+
+Ora analizziamo il caso in cui è nota la rappresentazione in *forma trigonometrica* $$z = r[cos(\theta) + i sin(\theta) ]$$
+per arrivare a questa $$ z = a + ib$$
+Le **Formule** che consentono di effetturare tale passaggio sono le seguenti $$\left[ 
+	\begin{align}
+	a = r cos(\theta) \\
+	b = r sin(\theta)
+	\end{align} \right]$$
+$a$ e $b$ sono infatti cateti di un *triangolo rettangolo*; per determinare le lunghezze basta far ricorso ai **teoremi trigonometrici sui triangoli rettangoli**
+
+###### TODO | Fare Esempio 
+
+#### Dalla Forma Algebrica alla forma Esponenziale
+
+un **numero complesso in forma algebrica** si presenta come $$ z = a+ib, \space con \space a,b \in \mathbb{R}$$
+per passare alla *forma esponenziale* $$z = re^{i\theta}$$basta calcolare $r$ e $\theta$, ossia il **modulo** e **argomento** del *numero complesso* $\ z = a + ib$ 
+
+per il **modulo** basta ricorrere alla formula citata nella sezione [[#Modulo di un Numero Complesso]] $$r = \sqrt{a^2+b^2}$$mentre per il valore dellargomento $\theta$ varia a seconda dell'intervallo in cui si decide di lavorare.  Possiamo ricorrere però alla tabella sopra citata ([[#Tabella Ricerca Modulo]])
+
+###### TODO | Fare Esempio 
+
+#### Dalla Forma Esponenziale alla forma Algebrica
+
+Partendo dalla rappresentazione esponenziale di un *numero complesso* $$z = re^{i\theta}$$
+disponiamo immediatamente del **modulo** $\ r$ e dell'**argomento** $\theta$, si riduce quindi a dover **calcolare** *parte reale* $a$ e *parte immaginaria* $b$ di un *numero complesso* conoscendone **modulo** e **argomento** con le formule  $$\left[ 
+	\begin{align}
+	a = r cos(\theta) \\
+	b = r sin(\theta)
+	\end{align} \right]$$
+###### TODO | Fare Esempio 
+
+#### Formula di De Moivre
+
+>la **Formula di De Moivre** è una formula che si applica in campo complesso e che permette di calcolare la **potenza di un numero complesso** qualsiasi espresso in *forma trigonometrica* o in *forma esponenziale*
+
+1. Supponiamo di ragionare nel caso più generale possibile, e dunque che il *numero* $z$ sia espresso in **forma algebrica**, vale a dire nella forma $$z = a+ib, \space con \space a,b \in \mathbb{R}$$
+2. Calcoliamo il **modulo e argometo** di $z$, rispettivamente $r,\theta$, in modo di *passare* dalla *forma algebrica* alla *forma trigonometrica* $$ z = r[cos(\theta) + i sin(\theta)]$$
+3. Applichiamo direttamente la **Formula di De Moivre**, secondo cui la *potenza* di un *numero complesso* si ottiene **elevando** il *modulo* all'*esponente* e **moltiplicando** l'*argomento* per l'*espontente* $$ z^{n} = r^{n}(cos(n\theta) + isin(n\theta))$$ se invece siamo in **forma esponenziale** allora $$ z^{n} = r^ne^{in\theta}$$
+4. 
