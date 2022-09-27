@@ -7,8 +7,12 @@
         "id": "891ee1e3f3576c5d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "University/Analisi I/Numeri Complessi.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Analisi I/Numeri Complessi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Analisi I/Numeri Complessi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Analisi I/Numeri Complessi.md"
+              }
             }
           },
           {
@@ -130,8 +138,8 @@
   },
   "active": "891ee1e3f3576c5d",
   "lastOpenFiles": [
-    "University/Fisica I/Algebra Vettoriale.md",
     "University/Analisi I/Numeri Complessi.md",
+    "University/Fisica I/Algebra Vettoriale.md",
     "University/Fisica I/Analisi Dimensionale.md",
     "Senza nome.md",
     "University/Analisi I/Teoria degli Insiemi.md",

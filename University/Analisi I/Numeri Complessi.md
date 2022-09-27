@@ -1,10 +1,10 @@
-## Numeri Complessi
+\## Numeri Complessi
 
 >  I **numeri complessi** costituiscono un insieme che *estende* l'insieme dei numeri reali ed in cui, partire dalla definizione di **unità immaginaria**
 
 ##### Come nascono i numeri complessi
 
-Nell'insieme **R** dei numeri reali, definito come l'unione tra gli insiemi dei numeri razionali e dei numeri irrazionali, tutto sembrerebbe funzionare al meglio;
+Nell'insieme **R** dei numeri reali, definito come l'unione tra gli insiemi dei numeri razionali e dei numeri irrazionali, sembrerebbe funzionare al meglio;
 
 Se però ci chiedessero ad esempio:
 
