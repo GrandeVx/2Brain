@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a7af73f5008c5185",
+        "id": "891ee1e3f3576c5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "University/Analisi I/Numeri Complessi.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3b1ebd35a36c3af2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186.5,
-    "collapsed": true
+    "width": 186.5
   },
   "right": {
     "id": "cebc6bda09e5a31c",
@@ -137,14 +148,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7af73f5008c5185",
+  "active": "891ee1e3f3576c5d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "University/Analisi I/Numeri Complessi.md",
     "University/Fisica I/Algebra Vettoriale.md",
     "University/Fisica I/Analisi Dimensionale.md",
-    "University/Analisi I/Teoria degli Insiemi.md",
-    "2022-09-26.md",
     "Senza nome.md",
+    "University/Analisi I/Teoria degli Insiemi.md",
     "2022-09-23.md",
     "2022-09-21.md",
     "Schermata 2022-09-21 alle 11.43.10.png",
