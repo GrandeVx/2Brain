@@ -222,9 +222,3 @@ disponiamo immediatamente del **modulo** $\ r$ e dell'**argomento** $\theta$, si
 1. Supponiamo di ragionare nel caso più generale possibile, e dunque che il *numero* $z$ sia espresso in **forma algebrica**, vale a dire nella forma $$z = a+ib, \space con \space a,b \in \mathbb{R}$$
 2. Calcoliamo il **modulo e argometo** di $z$, rispettivamente $r,\theta$, in modo di *passare* dalla *forma algebrica* alla *forma trigonometrica* $$ z = r[cos(\theta) + i sin(\theta)]$$
 3. Applichiamo direttamente la **Formula di De Moivre**, secondo cui la *potenza* di un *numero complesso* si ottiene **elevando** il *modulo* all'*esponente* e **moltiplicando** l'*argomento* per l'*espontente* $$ z^{n} = r^{n}(cos(n\theta) + isin(n\theta))$$ se invece siamo in **forma esponenziale** allora $$ z^{n} = r^ne^{in\theta}$$
-<<<<<<< HEAD
-
-
-=======
-COme va
->>>>>>> origin/main
