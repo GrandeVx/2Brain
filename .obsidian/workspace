@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University/Analisi I/Numeri Complessi.md",
+            "file": "University/Fisica I/Analisi Dimensionale.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Analisi I/Numeri Complessi.md",
+                "file": "University/Fisica I/Analisi Dimensionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Analisi I/Numeri Complessi.md",
+                "file": "University/Fisica I/Analisi Dimensionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Analisi I/Numeri Complessi.md"
+                "file": "University/Fisica I/Analisi Dimensionale.md"
               }
             }
           },
@@ -139,9 +139,9 @@
   },
   "active": "a7af73f5008c5185",
   "lastOpenFiles": [
+    "University/Fisica I/Algebra Vettoriale.md",
     "University/Analisi I/Numeri Complessi.md",
     "conflict-files-obsidian-git.md",
-    "University/Fisica I/Algebra Vettoriale.md",
     "University/Fisica I/Analisi Dimensionale.md",
     "University/Analisi I/Teoria degli Insiemi.md",
     "2022-09-26.md",

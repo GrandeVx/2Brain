@@ -1,4 +1,4 @@
-\## Numeri Complessi
+## Numeri Complessi
 
 >  I **numeri complessi** costituiscono un insieme che *estende* l'insieme dei numeri reali ed in cui, partire dalla definizione di **unità immaginaria**
 
