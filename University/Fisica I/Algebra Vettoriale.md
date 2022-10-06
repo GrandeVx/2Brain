@@ -23,8 +23,6 @@ Si Rappresenta **graficamente** con una *freccia* la cui *lunghezza* è **propor
 Conoscendo $a$ che definiamo il **modulo** e l'*angolo* $\theta$ possiamo ricavare le componenti $\ a_{y} \space e \space a_{x}$ nel seguente modo  $$ \begin{align} a_{x} = acos\theta \\ a_{y} = a sin \theta \\ \theta = arctan(a_{y}/a_{x}) \end{align}$$
 Mentre conoscendo le componenti di due vettori possiamo calcolare **l'angolo compreso** nel seguente modo $$ \theta = arcos(\frac{\overrightarrow{A} \space \bullet \space  \overrightarrow{B}}{\vert \overrightarrow{A} \vert \space \bullet \space \vert \overrightarrow{B} \vert}) $$
 
-
-
 ##### Esempi
 
 ###### Esempio 1
