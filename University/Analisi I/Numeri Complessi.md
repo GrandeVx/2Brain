@@ -161,15 +161,15 @@ dove il *simbolo* $:=$ denota un uguaglianza per *definizione*. Dalla definizion
 
 Continuando con le notazioni adottate in precedenza, definiamo l'**argomento del numero complesso** $z$ come il numero $$\theta := Arg(z) \in (-\pi, +\pi]$$
 dato da $$$\theta := Arg(z) =$$ 
-##### Tabella Ricerca Modulo
+##### Tabella Ricerca Argomento
 | Valore                                  | Condizione                       |
 | --------------------------------------- | -------------------------------- |
 | $\frac{\pi}{2}$                         | se $\ a = 0, b > 0$              |
 | $\ - \frac{\pi}{2}$                     | se $\ a = 0, b > 0$              |
 | non definito                            | se $\ a = 0, b = 0$              |
 | $\arctan(\frac{b}{a})$                  | se $\ a > 0, b \space qualsiasi$ |
-| $\arctan\left(\frac{b}{a}\right) + \pi$ | se $\ a < 0, b \ge 0$            |
-| $\arctan\left(\frac{b}{a}\right) - \pi$ | se $\ a < 0, b < 0$              |
+| $\arctan\left(\frac{b}{a}\right) - \pi$ | se $\ a < 0, b \ge 0$            |
+| $\arctan\left(\frac{b}{a}\right) + \pi$ | se $\ a < 0, b < 0$              |
 
 #### Dalla Forma Algebrica alla forma Trigonometrica 
 
@@ -178,7 +178,7 @@ per *Passare* alla **forma trigonometrica** $$ z = r[cos(\theta) + isin(\theta)]
 basta calcolare $r$ e $\theta$, ossia il **modulo** e **argomento** del *numero complesso* $\ z = a + ib$ 
 
 per il **modulo** basta ricorrere alla formula citata nella sezione [[#Modulo di un Numero Complesso]] $$r = \sqrt{a^2+b^2}$$
-mentre per il valore dellargomento $\theta$ varia a seconda dell'intervallo in cui si decide di lavorare.  Possiamo ricorrere però alla tabella sopra citata ([[#Tabella Ricerca Modulo]])
+mentre per il valore dellargomento $\theta$ varia a seconda dell'intervallo in cui si decide di lavorare.  Possiamo ricorrere però alla tabella sopra citata ([[#Tabella Ricerca Argomento]])
 
 
 ###### TODO | Fare Esempio 
