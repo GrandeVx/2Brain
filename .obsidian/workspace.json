@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c276c81d258d31ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50e77e64753dc03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76cc8b2b9c8b4d49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9aa520944d178708",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15e21f6f51777d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7153d40e173406ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99a5be4e0fc77f01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa284f868037778b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186.5
+  },
+  "right": {
+    "id": "cebc6bda09e5a31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0108f5703e17cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5e9bfdc0dfa835c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3834304a87eb71d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "607f11b3fb7cd4c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "686b502a3f5a6b24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "363719a5afdc8d1d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "76cc8b2b9c8b4d49",
+  "lastOpenFiles": [
+    "Skills/Trading/Analisi Tecnica/Double & Triple Bottom.md",
+    "Skills/Trading/Analisi Tecnica/Double & Triple Top.md",
+    "Double.md",
+    "My Link.md",
+    "Triple.md",
+    "University/Analisi I/Numeri Complessi.md",
+    "University/Fisica I/Cinematica.md",
+    "Skills/Trading/Untitled.md",
+    "University/Analisi I/Principio Di Induzione.md",
+    "University/Analisi I/Teoria degli Insiemi.md"
+  ]
+}

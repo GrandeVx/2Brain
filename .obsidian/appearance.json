@@ -1,6 +1,7 @@
 {
   "translucency": false,
-  "cssTheme": "Primary",
-  "theme": "obsidian",
-  "baseFontSize": 14
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
+  "baseFontSize": 14,
+  "accentColor": ""
 }
